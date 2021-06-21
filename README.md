@@ -3,4 +3,4 @@ The materials found in this repo are my work from the Informatics Skunkworks gro
 
 More detailed info on each project can be found in the summary slide decks in the corresponding folder.
 
-More detail on Informatics Skunkworks: "The “Informatics Skunkworks” is a group dedicated to engaging undergraduates in research to realize the potential of informatics for science and engineering. Skunkworks participants work together in project-based research, learning critical skills in teamwork, presentation, project management, software development, and applied data science, as well as driving data-centric approaches that are transforming science and engineering."
+Expanded detail on Informatics Skunkworks: "The “Informatics Skunkworks” is a group dedicated to engaging undergraduates in research to realize the potential of informatics for science and engineering. Skunkworks participants work together in project-based research, learning critical skills in teamwork, presentation, project management, software development, and applied data science, as well as driving data-centric approaches that are transforming science and engineering."
