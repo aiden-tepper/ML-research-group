@@ -1,2 +1,6 @@
 # ML-research-group
-This repo holds my data, code, and results from the MS&amp;E Informatics Skunkworks introductory ML research group
+The materials found in this repo are my work from the Informatics Skunkworks group within the Materials Science & Engineering program. This was a one semester-long flexible and self-directed program aimed to be an introduction to the basics of machine learning-based research. We met as a group weekly to discuss results/questions from the previous week, as well as go into detail about the assigned work for the next week. Our modules revolved mostly around cleaning datasets, creating various types of machine larning models in Google Colab using the MAST-ML Python package (created and maintained by UW-Madison students and professors, https://github.com/uw-cmg/MAST-ML), and optimizing parameters/hyperparameters of the model using techniques that involved test sets and analyzing parity plots.
+
+More detailed info on each project can be found in the summary slide decks in the corresponding folder.
+
+More detail on Informatics Skunkworks: "The “Informatics Skunkworks” is a group dedicated to engaging undergraduates in research to realize the potential of informatics for science and engineering. Skunkworks participants work together in project-based research, learning critical skills in teamwork, presentation, project management, software development, and applied data science, as well as driving data-centric approaches that are transforming science and engineering."
